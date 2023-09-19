@@ -1,0 +1,4 @@
+1: I started leaning Des. Patt.
+2: This is Single Responsibility Principle
+3: It deals with the concerns related to persistance
+4: For this it uses seperation of concern
